@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adinath More</h1>
-<h3 align="center">A passionate Full Stack Java developer from India</h3>
+<h3 align="center"> Quant Devloper </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 
@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adinath412" alt="adinath412" /></a> </p>
 
-- 🔭 I’m currently working on Visansiddh solution pvt [Company website](https://www.falconebiz.com/company/VISANSIDDH-SOLUTIONS-PRIVATE-LIMITED-U62099PN2023PTC219369)
+- 🔭 Currently building quantitative trading and data analysis projects.
 
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👯 I’m looking to collaborate on [college management system](https://github.com/adinath412/collage.git)
+- 🌱 I’m currently learning ** C++ **
 
 - 📫 How to reach me **moreadinath412@gmail.com**
 
