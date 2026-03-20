@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adinath More</h1>
-<h3 align="center"> Quant Devloper </h3>
+<h3 align="center"> Quant developer </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
 
